@@ -4,7 +4,7 @@ He is a Chinese C++, C and x86/x64 assembly programmer. Notwithstanding him bein
 ### His Projects
 
 #### mcfgthread (English)
-[mcfgthread](https://github.com/lhmouse/mcfgthread) provides C++11 thread support for MinGW-w64 targets of GCC. This library is the most efficient among all mutex and condition variable implementations other than Microsoft's own ones, by making use of undocumented Windows NT system calls directly. It is the most ideal implementation on Windows, with the most comprehensive features and few overheads. He also constantly builds [GCC with mcfgthread support](http://lhmouse.com/gcc-mcf/) for public previews and tests.
+[mcfgthread](https://github.com/lhmouse/mcfgthread) provides C++11 thread support for MinGW-w64 targets of GCC. This library is the most efficient among all mutex and condition variable implementations other than Microsoft's own ones, by making use of undocumented Windows NT system calls directly. It is the most ideal implementation on Windows, with the most comprehensive features and fewest overheads. He also constantly builds [GCC with mcfgthread support](http://lhmouse.com/gcc-mcf/) for public previews and tests.
 
 #### poseidon (Chinese)
 [poseidon](https://github.com/lhmouse/poseidon) is a Linux-specific framework for server application development based on [coroutines](https://en.wikipedia.org/wiki/Coroutine). He contributes to this project throughout his work, as it is not only experimental, but for production environment, despite a few WIPs.
