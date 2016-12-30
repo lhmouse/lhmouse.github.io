@@ -1,1 +1,1 @@
-# Please visit <http://github.lhmouse.com/>
+# Please visit <http://github.lhmouse.com/>.
