@@ -1,7 +1,7 @@
 title: LH_Mouse
-description: A So-called C++ Lawyer
+description: The So-called Programmatic Commentator
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-slate
 
 gems:
