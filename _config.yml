@@ -2,7 +2,7 @@ title: LH_Mouse
 description: A So-called Programmatic Commentator
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-slate
+theme: jekyll-theme-merlot
 
 gems:
   - jekyll-mentions
