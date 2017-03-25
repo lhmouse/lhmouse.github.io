@@ -41,8 +41,10 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p class="copyright"><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="CC BY-NC-ND 4.0" src="https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png" /></a> Copyleft 2016 - 2017, LH_Mouse. All wrongs reserved. <br />
+        {% if site.is_project_page %}
+        <p class="copyright"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="CC BY-NC-SA 4.0" src="https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png" /></a> Copyleft {{ site.copyright_years }}, {{ site.github.owner_name }}. All wrongs reserved. <br />
         Please send comments and suggestions via <a href="{{ site.github.repository_url }}/issues">GitHub Issues</a>.</p>
+        {% endif %}
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>

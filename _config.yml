@@ -1,8 +1,9 @@
 title: LH_Mouse
-description: A So-called Programmatic Commentator
+description: "A So-called Programmatic Commentator"
 show_downloads: false
 theme: jekyll-theme-slate
 is_project_page: true
+copyright_years: "2017"
 
 gems:
   - jekyll-mentions
