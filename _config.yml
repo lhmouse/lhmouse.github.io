@@ -3,8 +3,8 @@ description:
 baidu_analytics_key: 4af76f55697ba202de7f1ec8b6c377f2
 show_downloads: false
 theme: jekyll-theme-slate
-is_project_page: true
 copyright_years: "2017"
+copyright_by: LH_Mouse
 
 gems:
   - jekyll-mentions
