@@ -41,25 +41,13 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        {% if site.github.is_project_page %}
         <p class="copyright"><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="CC BY-NC-ND 4.0" src="https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png" /></a>Copyleft 2016 - 2017, LH_Mouse. All wrongs reserved. <br />
         Please send comments and suggestions via <a href="{{ site.github.repository_url }}/issues">GitHub Issues</a>.</p>
-        {% endif %}
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
 
-    {% if site.google_analytics %}
-      <script type="text/javascript">
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
-
+    <!-- BAIDU ANALYTICS  -->
     <script>
     var _hmt = _hmt || [];
     (function() {
