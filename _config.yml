@@ -4,6 +4,7 @@ google_analytics: false
 show_downloads: false
 theme: jekyll-theme-slate
 is_project_page: false
+issues: true
 
 gems:
   - jekyll-mentions
