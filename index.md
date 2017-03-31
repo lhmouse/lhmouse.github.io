@@ -4,6 +4,12 @@ He is a Chinese C++, C and x86/x64 assembly programmer. Notwithstanding him bein
 
 ### His Projects
 
+#### MCF (Chinese)
+
+![Watchers](https://img.shields.io/github/watchers/lhmouse/MCF.svg?style=plastic) ![Stars](https://img.shields.io/github/stars/lhmouse/MCF.svg?style=plastic) ![Forks](https://img.shields.io/github/forks/lhmouse/MCF.svg?style=plastic)
+
+[MCF](https://github.com/lhmouse/MCF) is a Windows-specific C++17 framework. It is basically a large toy that consists of the minimal set of reinvented C and C++ wheels for daily use. It is a clean room design of the C and C++ [runtime library](https://en.wikipedia.org/wiki/Runtime_library).
+
 #### mcfgthread (English)
 
 ![Watchers](https://img.shields.io/github/watchers/lhmouse/mcfgthread.svg?style=plastic) ![Stars](https://img.shields.io/github/stars/lhmouse/mcfgthread.svg?style=plastic) ![Forks](https://img.shields.io/github/forks/lhmouse/mcfgthread.svg?style=plastic)
