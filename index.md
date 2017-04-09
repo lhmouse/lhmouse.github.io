@@ -16,7 +16,7 @@ He is also one of the developers of the [mingw-w64](https://mingw-w64.org/) proj
 
 ![Watchers](https://img.shields.io/github/watchers/lhmouse/mcfgthread.svg?style=plastic) ![Stars](https://img.shields.io/github/stars/lhmouse/mcfgthread.svg?style=plastic) ![Forks](https://img.shields.io/github/forks/lhmouse/mcfgthread.svg?style=plastic)
 
-[mcfgthread](https://github.com/lhmouse/mcfgthread) provides C++11 thread support for MinGW-w64 targets of GCC. Making use of undocumented Windows NT system calls directly, this library implements the most efficient mutexes and condition variables on Windows other than Microsoft's own ones, which are particularly the most ideal ones with the most comprehensive features and fewest overheads. He also constantly builds [GCC with mcfgthread support](https://www.lhmouse.com/gcc-mcf/) for public previews and tests.
+[mcfgthread](https://github.com/lhmouse/mcfgthread) provides C++11 thread support for MinGW-w64 targets of GCC. Making use of undocumented Windows NT system calls directly, this library implements the most efficient mutexes and condition variables on Windows other than Microsoft's own ones, which are particularly the most ideal ones with the most comprehensive features and fewest overheads. He also constantly builds [GCC with the MCF thread model](https://gcc-mcf.lhmouse.com/) for public previews and tests.
 
 ### poseidon (Chinese)
 
