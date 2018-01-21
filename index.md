@@ -4,6 +4,8 @@ He is a Chinese C++, C and x86/x64 assembly programmer. Notwithstanding him bein
 
 He is also one of the developers of the [mingw-w64](https://mingw-w64.org/) project.
 
+![GNU nano for the win!](gnu-nano-ftw.png)
+
 # His Projects
 
 ### MCF (Chinese)
@@ -29,7 +31,3 @@ He is also one of the developers of the [mingw-w64](https://mingw-w64.org/) proj
 ![Watchers](https://img.shields.io/github/watchers/lhmouse/nano-win.svg?style=plastic) ![Stars](https://img.shields.io/github/stars/lhmouse/nano-win.svg?style=plastic) ![Forks](https://img.shields.io/github/forks/lhmouse/nano-win.svg?style=plastic)
 
 [nano-win](https://github.com/lhmouse/nano-win) ports [the nano editor](https://www.nano-editor.org/) from Linux to Windows, which is the only editor he uses on Linux. The ported editor is statically linked against most libraries, resulting in a standalone executable that requires no third party DLLs. It also accepts both `Alt` keys as `Meta` keys and reads `.nanorc` from the Windows user home directory. The project is actively updated as long as new versions become available from the upstream.
-
----
-
-![GNU nano for the win!](gnu-nano-ftw.png)
