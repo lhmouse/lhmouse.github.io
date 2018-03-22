@@ -18,16 +18,16 @@ He is also one of the developers of the [mingw-w64](https://mingw-w64.org/) proj
 
 ![Watchers](https://img.shields.io/github/watchers/lhmouse/mcfgthread.svg?style=plastic) ![Stars](https://img.shields.io/github/stars/lhmouse/mcfgthread.svg?style=plastic) ![Forks](https://img.shields.io/github/forks/lhmouse/mcfgthread.svg?style=plastic)
 
-[mcfgthread](https://github.com/lhmouse/mcfgthread) provides C++11 thread support for MinGW-w64 targets of GCC. Making use of undocumented Windows NT system calls directly, this library implements the most efficient mutexes and condition variables on Windows other than Microsoft's own ones, which are particularly the most ideal ones with the most comprehensive features and fewest overheads. He also constantly builds [GCC with the MCF thread model](https://gcc-mcf.lhmouse.com/) for public previews and tests.
+[mcfgthread](https://github.com/lhmouse/mcfgthread) provides C++11 thread support for MinGW-w64 targets of GCC. Making use of undocumented Windows NT system calls directly, this library implements the most efficient mutexes and condition variables on Windows other than Microsoft's own ones, which are particularly the most ideal ones with the most comprehensive features and fewest overheads. He also builds [GCC with the MCF thread model](https://gcc-mcf.lhmouse.com/) constantly for public previews and tests.
 
 ### poseidon (Chinese)
 
 ![Watchers](https://img.shields.io/github/watchers/lhmouse/poseidon.svg?style=plastic) ![Stars](https://img.shields.io/github/stars/lhmouse/poseidon.svg?style=plastic) ![Forks](https://img.shields.io/github/forks/lhmouse/poseidon.svg?style=plastic)
 
-[poseidon](https://github.com/lhmouse/poseidon) is a Linux-specific framework for server application development based on [coroutines](https://en.wikipedia.org/wiki/Coroutine). He contributes to this project throughout his work, as it is not only experimental, but for production environment, despite a few WIPs.
+[poseidon](https://github.com/lhmouse/poseidon) is a Linux-specific framework for server application development based on [coroutines](https://en.wikipedia.org/wiki/Coroutine). He has been contributing to this project throughout his work, as it is not only experimental, but for production environment, despite a few WIPs.
 
 ### nano-win (English)
 
 ![Watchers](https://img.shields.io/github/watchers/lhmouse/nano-win.svg?style=plastic) ![Stars](https://img.shields.io/github/stars/lhmouse/nano-win.svg?style=plastic) ![Forks](https://img.shields.io/github/forks/lhmouse/nano-win.svg?style=plastic)
 
-[nano-win](https://github.com/lhmouse/nano-win) ports [the nano editor](https://www.nano-editor.org/) from Linux to Windows, which is the only editor he uses on Linux. The ported editor is statically linked against most libraries, resulting in a standalone executable that requires no third party DLLs. It also accepts both `Alt` keys as `Meta` keys and reads `.nanorc` from the Windows user home directory. The project is actively updated as long as new versions become available from the upstream.
+[nano-win](https://github.com/lhmouse/nano-win) ports [the nano editor](https://www.nano-editor.org/) from Linux to Windows, which is the only editor he uses on Linux. The editor ported is statically linked against most libraries, resulting in a standalone executable that requires no third party DLL. It also accepts both `Alt` keys as `Meta` keys and reads `.nanorc` from the Windows user home directory. The project is actively updated as long as new versions become available from the upstream.
