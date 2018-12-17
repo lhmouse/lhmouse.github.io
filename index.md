@@ -8,11 +8,11 @@ He is also one of the developers of the [mingw-w64](https://mingw-w64.org/) proj
 
 # His Projects
 
-### MCF (Chinese)
+### Asteria (English)
 
-![Watchers](https://img.shields.io/github/watchers/lhmouse/MCF.svg?style=plastic) ![Stars](https://img.shields.io/github/stars/lhmouse/MCF.svg?style=plastic) ![Forks](https://img.shields.io/github/forks/lhmouse/MCF.svg?style=plastic)
+![Watchers](https://img.shields.io/github/watchers/lhmouse/asteria.svg?style=plastic) ![Stars](https://img.shields.io/github/stars/lhmouse/asteria.svg?style=plastic) ![Forks](https://img.shields.io/github/forks/lhmouse/asteria.svg?style=plastic)
 
-[MCF](https://github.com/lhmouse/MCF) is a Windows-specific C++17 framework. It is basically a large toy that consists of the minimal set of reinvented C and C++ wheels for daily use. It is a clean room design of the C and C++ [runtime library](https://en.wikipedia.org/wiki/Runtime_library).
+[Asteria](https://github.com/lhmouse/asteria) is a scripting language implemented in C++11. It is dynamically typed. Its syntax looks almost the same to Javascript, with some extensions and rectification, being pure [right regular grammar](https://en.wikipedia.org/wiki/Regular_grammar). It is also highly self-consistent for not discriminating [primitive types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html) from class types. Instead, function arguments are passed by reference and the assignment operator (`=`, called the _assignment operator_ even in a definition such as `var i = 42`) always performs deep copying. It is also highly extensible and easy to integrate into existent C++ projects.
 
 ### mcfgthread (English)
 
@@ -25,6 +25,12 @@ He is also one of the developers of the [mingw-w64](https://mingw-w64.org/) proj
 ![Watchers](https://img.shields.io/github/watchers/lhmouse/poseidon.svg?style=plastic) ![Stars](https://img.shields.io/github/stars/lhmouse/poseidon.svg?style=plastic) ![Forks](https://img.shields.io/github/forks/lhmouse/poseidon.svg?style=plastic)
 
 [poseidon](https://github.com/lhmouse/poseidon) is a Linux-specific framework for server application development based on [coroutines](https://en.wikipedia.org/wiki/Coroutine). He has been contributing to this project throughout his work, as it is not only experimental, but for production environment, despite a few WIPs.
+
+### MCF (Chinese)
+
+![Watchers](https://img.shields.io/github/watchers/lhmouse/MCF.svg?style=plastic) ![Stars](https://img.shields.io/github/stars/lhmouse/MCF.svg?style=plastic) ![Forks](https://img.shields.io/github/forks/lhmouse/MCF.svg?style=plastic)
+
+[MCF](https://github.com/lhmouse/MCF) is a Windows-specific C++17 framework. It is basically a large toy that consists of the minimal set of reinvented C and C++ wheels for daily use. It is a clean room design of the C and C++ [runtime library](https://en.wikipedia.org/wiki/Runtime_library).
 
 ### nano-win (English)
 
