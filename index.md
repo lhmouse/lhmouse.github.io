@@ -20,11 +20,11 @@ He is also one of the developers of the [mingw-w64](https://mingw-w64.org/) proj
 
 [mcfgthread](https://github.com/lhmouse/mcfgthread) provides C++11 thread support for MinGW-w64 targets of GCC. Making use of undocumented Windows NT system calls directly, this library implements the most efficient mutexes and condition variables on Windows other than Microsoft's own ones, which are particularly the most ideal ones with the most comprehensive features and fewest overheads. He also builds [GCC with the MCF thread model](https://gcc-mcf.lhmouse.com/) constantly for public previews and tests.
 
-### poseidon (Chinese)
+### Poseidon (Chinese)
 
 ![Watchers](https://img.shields.io/github/watchers/lhmouse/poseidon.svg?style=plastic) ![Stars](https://img.shields.io/github/stars/lhmouse/poseidon.svg?style=plastic) ![Forks](https://img.shields.io/github/forks/lhmouse/poseidon.svg?style=plastic)
 
-[poseidon](https://github.com/lhmouse/poseidon) is a Linux-specific framework for server application development based on [coroutines](https://en.wikipedia.org/wiki/Coroutine). He has been contributing to this project throughout his work, as it is not only experimental, but for production environment, despite a few WIPs.
+[Poseidon](https://github.com/lhmouse/poseidon) is a Linux-specific framework for server application development based on [coroutines](https://en.wikipedia.org/wiki/Coroutine). He has been contributing to this project throughout his work, as it is not only experimental, but for production environment, despite a few WIPs.
 
 ### MCF (Chinese)
 
